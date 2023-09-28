@@ -1,0 +1,1 @@
+document.body.innerText="Running test...",new class extends(null){constructor(){super()}},document.body.innerText="Test succeeded!";
